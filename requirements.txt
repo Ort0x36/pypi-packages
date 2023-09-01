@@ -1,0 +1,4 @@
+httpx
+packaging
+rich
+typer
